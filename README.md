@@ -1,9 +1,10 @@
 # AWS Continues integration and continues delivery
 
-# services utilized to integrate and create the CICD pipeline.
-  -AWS code pipeline 
-  -aws code build
-  -GitHub
+## services utilized to integrate and create the CICD pipeline.
+  
+  - AWS code pipeline 
+  - aws code build
+  - GitHub
   
 
 ## Set Up GitHub Repository
